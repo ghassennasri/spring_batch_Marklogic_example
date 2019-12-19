@@ -5,7 +5,7 @@ Tha application connect to the famous Mysql sample database Employees, reads emp
 and serialize each tuple as an xml document into Marklogic database.
 
 ### prequisites:
-* Both Mysql and Marklogic need to be running on localhost
+* Both Mysql and Marklogic 10 need to be running on localhost
   The docker-compose file used to test the project is included into this repository
   
 * Mysql employees sample database need to be imported ( guidelines
